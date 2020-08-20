@@ -1,0 +1,6 @@
+{
+  "routes": {
+    "/": "index.html",
+    "/style": "styles/style.css"
+  }
+}
